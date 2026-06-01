@@ -1,4 +1,4 @@
-name: Deploy Infrastructure
+name: gh-actions-Deployinfra.yml
 
 on:
   push:
